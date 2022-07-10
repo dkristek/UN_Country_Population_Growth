@@ -10,4 +10,4 @@ Questions we hope to answer with the data:
 -Is the population in the United States' largest cities growing or declining?
 -Are we at a point where we should seek to accelerate or decline population expansion?
 -Are certain states more likely to have stronger population growth than others?
--What will the populatin of these states look like in the next 5 years?
+-What will the population of these states look like in the next 5 years?

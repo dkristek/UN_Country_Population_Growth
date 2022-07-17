@@ -19,3 +19,12 @@ Our primary source of data is United Nations census data for the United States, 
 -We also have our Google slides to draft presentation ideas
 (https://docs.google.com/presentation/d/1lzzH5QWJL6UF9R3eWyLcfaqSGRQeHIwNNbpT4gfCJ90/edit#slide=id.g13be2890723_0_6)
 -Finally, we all have each other's emails to connect if there are any Slack issues
+
+##Provisional Database
+Our team has created a provisional SQL database using PGAdmin.
+There are two main tables
+- Countries: Each country name with a unique identifier
+![alt text](https://github.com/dkristek/State_Population_Growth/blob/Presentation-Segment1/select%20countries.png)
+
+- Population: UN population data
+![alt text](https://github.com/dkristek/State_Population_Growth/tree/Presentation-Segment1)

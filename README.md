@@ -15,10 +15,10 @@ Our primary source of data is United Nations census data for the United States, 
 - What will the population of these countries look like in the next 5 years?
 
 ## Description of communication protocols
--Our team is mainly communicating via a Slack channel - during class sessions, we divide work and confirm each member's deliverables on this slack channel. We also discuss any barriers that need to be handled as a team
--We also have our Google slides to draft presentation ideas
+- Our team is mainly communicating via a Slack channel - during class sessions, we divide work and confirm each member's deliverables on this slack channel. We also discuss any barriers that need to be handled as a team
+- We also have our Google slides to draft presentation ideas
 (https://docs.google.com/presentation/d/1lzzH5QWJL6UF9R3eWyLcfaqSGRQeHIwNNbpT4gfCJ90/edit#slide=id.g13be2890723_0_6)
--Finally, we all have each other's emails to connect if there are any Slack issues
+- Finally, we all have each other's emails to connect if there are any Slack issues
 
 ## Provisional Database
 Our team has created a provisional SQL database using PGAdmin.

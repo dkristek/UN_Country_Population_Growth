@@ -24,17 +24,17 @@ Our primary source of data is United Nations census data for the United States, 
 Our team has created a provisional SQL database using PGAdmin.
 There are two main tables
 - Countries: Each country name with a unique identifier
-![alt text](https://github.com/dkristek/State_Population_Growth/blob/Presentation-Segment1/select%20countries.png)
+![alt text](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/select%20countries.png)
 
 - Populations: UN population data
-![alt text](https://github.com/dkristek/State_Population_Growth/blob/Presentation-Segment1/select%20populations.png)
+![alt text](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/select%20populations.png)
 
 ## Provisional Machine Learning Model
 Our team created a provision ML model to analyze the time-series data. An ARIMA (auto-regressive integrated moving average) was used to analyze the data and forecast population values.
 
 The model can be seen below
-![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/arima_code.png)
+![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/arima_code.png)
 
 The forecasted population values and test values can be seen below
-![Results](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/model_results.png)
+![Results](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/model_results.png)
 

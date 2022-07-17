@@ -6,7 +6,7 @@
 There are varying opinions of whether the population of the world is sustainable from a resources perspective. Population has a unique impact the sustainability of our climate, education system, and economy. We seek to understand the population growth trends within the United Nations’ four largest countries (in terms of population): United States, China, Indonesia, and India. We will then use this data to make inferences about population viability.
 
 ## Description of Source Data: 
-Our primary source of data is United Nations census data for the United States, China, Indonesia, and India. This includes total population statistics and growth percentages. [(https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
+Our primary source of data is United Nations census data for the United States, China, Indonesia, and India. This includes total population statistics and growth percentages. (https://population.un.org/wup/DataQuery/)
 
 ## Questions we hope to answer with the data:
 - Is the population in the United Nations' largest countries (in terms of population) growing or declining?
@@ -26,5 +26,5 @@ There are two main tables
 - Countries: Each country name with a unique identifier
 ![alt text](https://github.com/dkristek/State_Population_Growth/blob/Presentation-Segment1/select%20countries.png)
 
-- Population: UN population data
-![alt text](https://github.com/dkristek/State_Population_Growth/tree/Presentation-Segment1)
+- Populations: UN population data
+![alt text](https://github.com/dkristek/State_Population_Growth/blob/Presentation-Segment1/select%20populations.png)

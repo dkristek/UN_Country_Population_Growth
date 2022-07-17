@@ -1,18 +1,18 @@
 # State_Population_Growth
 
-## Selected Topic: Forecasting Population Growth in the United States' four largest cities (Florida, Texas, California, New York)
+## Selected Topic: Forecasting Population Growth in the United Nations' four largest countries (by population) (United States, China, Indonesia, and India)
 
 ## Reason why we selected this topic: 
-There are varying opinions of whether the population of the United States is sustainable from a resources perspective. Population has a unique impact the sustainability of our climate, education system, and economy. We seek to understand the population growth trends within the United States’ four largest cities: Texas, Florida, New York, and California. We will then use this data to make inferences about population viability.
+There are varying opinions of whether the population of the world is sustainable from a resources perspective. Population has a unique impact the sustainability of our climate, education system, and economy. We seek to understand the population growth trends within the United Nations’ four largest countries (in terms of population): United States, China, Indonesia, and India. We will then use this data to make inferences about population viability.
 
 ## Description of Source Data: 
 Our primary source of data is United Nations census data for the United States, China, Indonesia, and India. This includes total population statistics and growth percentages. [(https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
 
 ## Questions we hope to answer with the data:
-- Is the population in the United States' largest cities growing or declining?
+- Is the population in the United Nations' largest countries (in terms of population) growing or declining?
 - Are we at a point where we should seek to accelerate or decline population expansion?
-- Are certain states more likely to have stronger population growth than others?
-- What will the population of these states look like in the next 5 years?
+- Are certain countries more likely to have stronger population growth than others?
+- What will the population of these countries look like in the next 5 years?
 
 ## Description of communication protocols
 -Our team is mainly communicating via a Slack channel - during class sessions, we divide work and confirm each member's deliverables on this slack channel. We also discuss any barriers that need to be handled as a team

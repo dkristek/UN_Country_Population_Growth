@@ -28,3 +28,13 @@ There are two main tables
 
 - Populations: UN population data
 ![alt text](https://github.com/dkristek/State_Population_Growth/blob/Presentation-Segment1/select%20populations.png)
+
+## Provisional Machine Learning Model
+Our team created a provision ML model to analyze the time-series data. An ARIMA (auto-regressive integrated moving average) was used to analyze the data and forecast population values.
+
+The model can be seen below
+![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/arima_code.png)
+
+The forecasted population values and test values can be seen below
+![Results](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/model_results.png)
+

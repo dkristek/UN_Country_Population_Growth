@@ -6,3 +6,6 @@ As this was a dataset with only 2 features (time, and population in thousands) t
 
 ### Training/Testing Split
 The dataset used had 32 rows. A train/test ratio of ~80/20 was used as that ratio is usually regarded as a generally good starting split. In this case, the last 7 entries were used as the testing set.
+
+### Model Choice and Pros/Cons
+The model chosen was an ARIMA (auto-regressive integrated moving average) model. ARIMA is a popularly used model for time-series forecasting. Advantages of this model include; it is a recursive forecasting method (as opposed to a direct method) meaning the model can be used to forecast different time-steps by using the previous prediction as the input for the next prediction and its extendability (able to extend how far into the future the predictions are, this is due to its recursiveness). Meanwhile, the disadvantages of this model are; its poorer performance over longer periods of time and that it has difficulty predicting turning points. The ARIMA model can also be more difficult, for those who are not highly experienced with the model, to adjust and optimize than other time-series forecasting models such as a neural network.

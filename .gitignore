@@ -8,6 +8,7 @@ __pycache__/
 
 #python files
 config.py
+connection.py
 
 # Distribution / packaging
 .Python

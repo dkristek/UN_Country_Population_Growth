@@ -22,7 +22,7 @@ Our primary source of data is United Nations census data for the United States, 
 
 ## Provisional Database
 Our team has created a provisional SQL database using PGAdmin.
-There are two main tables
+There are two main tables:
 - Countries: Each country name with a unique identifier
 ![alt text](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/select%20countries.png)
 

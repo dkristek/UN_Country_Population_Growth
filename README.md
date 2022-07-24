@@ -38,3 +38,11 @@ The model can be seen below
 The forecasted population values and test values can be seen below
 ![Results](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/model_results.png)
 
+### Data Exploration phase
+The training data was plotted to look for any seasonality or trends. An autocorrelation graph was created to determine how many times the data needed to be differenced. Using the differenced data, a partial autocorrelation plot and another autocorrelation plot were made to determine
+values for the order of variables (p,q) in the arima model.
+
+### Data Analysis Phase
+An ARIMA model was used to analyze the time-series data and forecast future population values. THe results of the model was
+then used to forecast future results to compare against the test data. The real values and the predicted values were plotted to visualize the accuracy of the model.
+

@@ -39,4 +39,14 @@ The forecasted population values and test values can be seen below
 ![Results](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/model_results.png)
 
 ## Provisional Dashboard 
-The dashboard is set to display initial analysis elements, accuracy graph from machine learning model, projected graph displaying results predicted by ML model, and interactive element 
+The dashboard is set to display initial analysis elements, accuracy graph from machine learning model, projected graph displaying results predicted by ML model, and interactive element displaying the growth of population recorded from 1990 to 2021. 
+
+The visual elements to be displayed along with the technology are listed in detail below: 
+ 1. Global heatmap displaying countries by population.
+  - Technology: GeoJSON, Tableau, PANDAS
+ 2. Horizontal bar chart interactively displaying populations of countries by selected year
+  - Technology: Plotly, Tableau, HTML, Javascript
+ 3. Line graph depicting the predictive rate of machine learning model compared to actual testing data
+  - Technology: Statsmodels library, MATPLOTLIB, Tableau
+ 4. Bar chart or line graph that displays the projected populations, predicted by ML model over the next 5 years
+  - Technology: MATPLOTLIB, PANDAS, Tableau, Plotly

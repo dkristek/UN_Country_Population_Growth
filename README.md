@@ -29,8 +29,8 @@ There are two main tables:
 - Populations: UN population data
 ![alt text](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/select%20populations.png)
 
-## Provisional Machine Learning Model
-Our team created a provision ML model to analyze the time-series data. An ARIMA (auto-regressive integrated moving average) was used to analyze the data and forecast population values.
+## Provisional Machine Learning Model, Preliminary Feature Engineering, Benefits, and Drawbacks
+Our team created a provision ML model to analyze the time-series data. An ARIMA (auto-regressive integrated moving average) was used to analyze the data and forecast population values. The main advantage of ARIMA forecasting is that it requires data on the time series in question only. The main drawback of the Arima model is that it is computationally taxing. Longer projections can take time and mass computer power; however, this is not an issue with our current design as we only seek to predict 5 years into the future. 
 
 The model can be seen below
 ![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/arima_code.png)
@@ -43,6 +43,7 @@ The training data was plotted to look for any seasonality or trends. An autocorr
 values for the order of variables (p,q) in the arima model.
 
 ### Data Analysis Phase
-An ARIMA model was used to analyze the time-series data and forecast future population values. THe results of the model was
+An ARIMA model was used to analyze the time-series data and forecast future population values. The results of the model was
 then used to forecast future results to compare against the test data. The real values and the predicted values were plotted to visualize the accuracy of the model.
+
 

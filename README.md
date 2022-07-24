@@ -50,3 +50,12 @@ The visual elements to be displayed along with the technology are listed in deta
   - Technology: Statsmodels library, MATPLOTLIB, Tableau
  4. Bar chart or line graph that displays the projected populations, predicted by ML model over the next 5 years
   - Technology: MATPLOTLIB, PANDAS, Tableau, Plotly
+
+### Initial Draft of Visualizations in Tableau
+**Display 1.** Heatmap of Countries 2021
+![heatmap_population_country_2021](images/heatmap_population_country_2021.png)
+Shows the populations of the largest countries, relatively to one another.
+
+**Display 2.** Bar Chart of Countries Population 1990 - 2021
+![country_populations_by_year](images/country_populations_by_year.png)
+Shows a bar chart displaying population of countries by year and total population of the 4 countries throughout the years. 

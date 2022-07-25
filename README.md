@@ -46,6 +46,7 @@ There are two main tables:
 ![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment2/images/connectionstring.png)
 
 - We used an Inner Join to create a new table called countries_populations which has the country names and all population information:
+
 ![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment2/images/inner_join.jpg)
 
 ![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment2/images/select_countries_populations_table.jpg)

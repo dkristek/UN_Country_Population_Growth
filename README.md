@@ -38,7 +38,9 @@ There are two main tables:
 ![alt text](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/select%20populations.png)
 
 - Provisional Entity Relationship Diagram (ERD)
+
 ![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment2/images/ERD.png)
+
 ## Provisional Machine Learning Model, Preliminary Feature Engineering, Benefits, and Drawbacks
 Our team created a provision ML model to analyze the time-series data. An ARIMA (auto-regressive integrated moving average) was used to analyze the data and forecast population values. 
 

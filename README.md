@@ -20,17 +20,51 @@ Our primary source of data is United Nations census data for the United States, 
 (https://docs.google.com/presentation/d/1lzzH5QWJL6UF9R3eWyLcfaqSGRQeHIwNNbpT4gfCJ90/edit#slide=id.g13be2890723_0_6)
 - Finally, we all have each other's emails to connect if there are any Slack issues
 
+### Data Exploration phase
+The training data was plotted to look for any seasonality or trends. An autocorrelation graph was created to determine how many times the data needed to be differenced. Using the differenced data, a partial autocorrelation plot and another autocorrelation plot were made to determine
+values for the order of variables (p,q) in the arima model.
+
+### Data Analysis Phase
+An ARIMA model was used to analyze the time-series data and forecast future population values. The results of the model was
+then used to forecast future results to compare against the test data. The real values and the predicted values were plotted to visualize the accuracy of the model.
+
 ## Provisional Database
 Our team has created a provisional SQL database using PGAdmin.
-There are two main tables
+There are two main tables:
 - Countries: Each country name with a unique identifier
 ![alt text](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/select%20countries.png)
 
 - Populations: UN population data
 ![alt text](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/select%20populations.png)
 
-## Provisional Machine Learning Model
-Our team created a provision ML model to analyze the time-series data. An ARIMA (auto-regressive integrated moving average) was used to analyze the data and forecast population values.
+- Provisional Entity Relationship Diagram (ERD)
+
+![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment2/images/ERD.png)
+
+- The below connection string was used to connect our machine learning model to this database.
+
+![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment2/images/connectionstring.png)
+
+- We used an Inner Join to create a new table called countries_populations which has the country names and all population information:
+
+See below for Inner Join logic:
+
+![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment2/images/InnerJoinCreateTable.png)
+
+See below for a select of all information within the countries_populations table:
+
+![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment2/images/JoinWorkedConfirmation.png)
+
+
+## Provisional Machine Learning Model, Preliminary Feature Engineering, Benefits, and Drawbacks
+Our team created a provision ML model to analyze the time-series data. An ARIMA (auto-regressive integrated moving average) was used to analyze the data and forecast population values. 
+
+Benefits: The main advantage of ARIMA forecasting is that it requires data on the time series in question only. The focus on linear regression modeling lends to our main goal of population production.
+Drawbacks: The main drawback of the Arima model is that it is computationally taxing. Longer projections can take time and mass computer power; however, this is not an issue with our current design as we only seek to predict 5 years into the future. The parameters of the model have to be manually defined, so its a trial and error process that is not always the most efficient.
+
+## Training and Test Data Split
+Our training data is mid-year population for all 4 countries from 1990-2020.
+Our test data is 2021 mid-year population for all 4 countries. We also plan to predict 5 years into the future.
 
 The model can be seen below
 ![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/arima_code.png)

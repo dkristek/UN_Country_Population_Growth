@@ -36,7 +36,7 @@ Benefits: The main advantage of ARIMA forecasting is that it requires data on th
 Drawbacks: The main drawback of the Arima model is that it is computationally taxing. Longer projections can take time and mass computer power; however, this is not an issue with our current design as we only seek to predict 5 years into the future. The parameters of the model have to be manually defined, so its a trial and error process that is not always the most efficient.
 
 ## Training and Test Data Split
-Our training dat is mid-year population for all 4 countries from 1990-2020.
+Our training data is mid-year population for all 4 countries from 1990-2020.
 Our test data is 2021 mid-year population for all 4 countries. We also plan to predict 5 years into the future.
 
 The model can be seen below

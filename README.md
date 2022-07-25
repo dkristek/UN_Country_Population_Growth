@@ -20,6 +20,14 @@ Our primary source of data is United Nations census data for the United States, 
 (https://docs.google.com/presentation/d/1lzzH5QWJL6UF9R3eWyLcfaqSGRQeHIwNNbpT4gfCJ90/edit#slide=id.g13be2890723_0_6)
 - Finally, we all have each other's emails to connect if there are any Slack issues
 
+### Data Exploration phase
+The training data was plotted to look for any seasonality or trends. An autocorrelation graph was created to determine how many times the data needed to be differenced. Using the differenced data, a partial autocorrelation plot and another autocorrelation plot were made to determine
+values for the order of variables (p,q) in the arima model.
+
+### Data Analysis Phase
+An ARIMA model was used to analyze the time-series data and forecast future population values. The results of the model was
+then used to forecast future results to compare against the test data. The real values and the predicted values were plotted to visualize the accuracy of the model.
+
 ## Provisional Database
 Our team has created a provisional SQL database using PGAdmin.
 There are two main tables:
@@ -29,10 +37,12 @@ There are two main tables:
 - Populations: UN population data
 ![alt text](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/select%20populations.png)
 
+- Provisional Entity Relationship Diagram (ERD)
+![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/ERD.png)
 ## Provisional Machine Learning Model, Preliminary Feature Engineering, Benefits, and Drawbacks
 Our team created a provision ML model to analyze the time-series data. An ARIMA (auto-regressive integrated moving average) was used to analyze the data and forecast population values. 
 
-Benefits: The main advantage of ARIMA forecasting is that it requires data on the time series in question only. 
+Benefits: The main advantage of ARIMA forecasting is that it requires data on the time series in question only. The focus on linear regression modeling lends to our main goal of population production.
 Drawbacks: The main drawback of the Arima model is that it is computationally taxing. Longer projections can take time and mass computer power; however, this is not an issue with our current design as we only seek to predict 5 years into the future. The parameters of the model have to be manually defined, so its a trial and error process that is not always the most efficient.
 
 ## Training and Test Data Split
@@ -45,13 +55,6 @@ The model can be seen below
 The forecasted population values and test values can be seen below
 ![Results](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/model_results.png)
 
-### Data Exploration phase
-The training data was plotted to look for any seasonality or trends. An autocorrelation graph was created to determine how many times the data needed to be differenced. Using the differenced data, a partial autocorrelation plot and another autocorrelation plot were made to determine
-values for the order of variables (p,q) in the arima model.
-
-### Data Analysis Phase
-An ARIMA model was used to analyze the time-series data and forecast future population values. The results of the model was
-then used to forecast future results to compare against the test data. The real values and the predicted values were plotted to visualize the accuracy of the model.
 
 ## Provisional Dashboard 
 The dashboard is set to display initial analysis elements, accuracy graph from machine learning model, projected graph displaying results predicted by ML model, and interactive element displaying the growth of population recorded from 1990 to 2021. 

@@ -30,7 +30,14 @@ There are two main tables:
 ![alt text](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/select%20populations.png)
 
 ## Provisional Machine Learning Model, Preliminary Feature Engineering, Benefits, and Drawbacks
-Our team created a provision ML model to analyze the time-series data. An ARIMA (auto-regressive integrated moving average) was used to analyze the data and forecast population values. The main advantage of ARIMA forecasting is that it requires data on the time series in question only. The main drawback of the Arima model is that it is computationally taxing. Longer projections can take time and mass computer power; however, this is not an issue with our current design as we only seek to predict 5 years into the future. 
+Our team created a provision ML model to analyze the time-series data. An ARIMA (auto-regressive integrated moving average) was used to analyze the data and forecast population values. 
+
+Benefits: The main advantage of ARIMA forecasting is that it requires data on the time series in question only. 
+Drawbacks: The main drawback of the Arima model is that it is computationally taxing. Longer projections can take time and mass computer power; however, this is not an issue with our current design as we only seek to predict 5 years into the future. The parameters of the model have to be manually defined, so its a trial and error process that is not always the most efficient.
+
+## Training and Test Data Split
+Our training dat is mid-year population for all 4 countries from 1990-2020.
+Our test data is 2021 mid-year population for all 4 countries. We also plan to predict 5 years into the future.
 
 The model can be seen below
 ![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment1/images/arima_code.png)

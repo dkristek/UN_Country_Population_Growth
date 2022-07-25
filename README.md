@@ -49,11 +49,11 @@ There are two main tables:
 
 See below for Inner Join logic:
 
-![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment2/images/inner join.png)
+![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment2/images/InnerJoinCreateTable.png)
 
 See below for a select of all information within the countries_populations table:
 
-![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment2/images/select countries populations table.png)
+![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment2/images/JoinWorkedConfirmation.png)
 
 
 ## Provisional Machine Learning Model, Preliminary Feature Engineering, Benefits, and Drawbacks

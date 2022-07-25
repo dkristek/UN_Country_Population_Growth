@@ -41,7 +41,7 @@ There are two main tables:
 
 ![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment2/images/ERD.png)
 
-- The below connection string was used to connect to our Machine Learning Model,
+- The below connection string was used to connect our machine learning model to this database.
 
 ![Model code](https://github.com/dkristek/UN_Country_Population_Growth/blob/Presentation-Segment2/images/connectionstring.png)
 

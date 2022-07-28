@@ -8,6 +8,12 @@ __pycache__/
 
 #other files
 config.py
+airline-passengers.csv
+america_predictions.csv
+china_prediction.csv
+Neural_NetworkPractice.ipynb
+india_predictions.csv
+indonesia_predictions.csv
 
 # Distribution / packaging
 .Python

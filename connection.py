@@ -1,0 +1,1 @@
+db_string = "postgresql+psycopg2://postgres:V3lv3t87@localhost:5432/world_population"

@@ -6,8 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
-#python files
+#other files
 config.py
+airline-passengers.csv
+connection.py
+Neural_NetworkPractice.ipynb
+
 
 # Distribution / packaging
 .Python

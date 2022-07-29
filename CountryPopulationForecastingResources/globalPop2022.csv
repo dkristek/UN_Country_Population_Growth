@@ -1,0 +1,234 @@
+ISO 3166-1 numeric code,Continents,Region,Country,2022
+108,Africa,Eastern Africa,Burundi,12675000
+174,Africa,Eastern Africa,Comoros,907000
+262,Africa,Eastern Africa,Djibouti,1028000
+232,Africa,Eastern Africa,Eritrea,5679000
+231,Africa,Eastern Africa,Ethiopia,118065000
+404,Africa,Eastern Africa,Kenya,56082000
+450,Africa,Eastern Africa,Madagascar,29175000
+454,Africa,Eastern Africa,Malawi,21445000
+480,Africa,Eastern Africa,Mauritius,1279000
+175,Africa,Eastern Africa,Mayotte,287000
+508,Africa,Eastern Africa,Mozambique,34170000
+638,Africa,Eastern Africa,Réunion,910000
+646,Africa,Eastern Africa,Rwanda,13670000
+690,Africa,Eastern Africa,Seychelles,97000
+706,Africa,Eastern Africa,Somalia,17088000
+728,Africa,Eastern Africa,South Sudan,14314000
+800,Africa,Eastern Africa,Uganda,50243000
+834,Africa,Eastern Africa,United Republic of Tanzania,66612000
+894,Africa,Eastern Africa,Zambia,19804000
+716,Africa,Eastern Africa,Zimbabwe,18437000
+24,Africa,Middle Africa,Angola,34988000
+120,Africa,Middle Africa,Cameroon,27280000
+140,Africa,Middle Africa,Central African Republic,5132000
+148,Africa,Middle Africa,Chad,17256000
+178,Africa,Middle Africa,Congo,5984000
+180,Africa,Middle Africa,Democratic Republic of the Congo,95220000
+226,Africa,Middle Africa,Equatorial Guinea,1498000
+266,Africa,Middle Africa,Gabon,2238000
+678,Africa,Middle Africa,Sao Tome and Principe,227000
+12,Africa,Northern Africa,Algeria,44584000
+818,Africa,Northern Africa,Egypt,106416000
+434,Africa,Northern Africa,Libya,6823000
+504,Africa,Northern Africa,Morocco,37914000
+729,Africa,Northern Africa,Sudan,45666000
+788,Africa,Northern Africa,Tunisia,12129000
+732,Africa,Northern Africa,Western Sahara,626000
+72,Africa,Southern Africa,Botswana,2497000
+426,Africa,Southern Africa,Lesotho,2381000
+516,Africa,Southern Africa,Namibia,2806000
+710,Africa,Southern Africa,South Africa,59996000
+748,Africa,Southern Africa,Swaziland,1486000
+204,Africa,Western Africa,Benin,12782000
+854,Africa,Western Africa,Burkina Faso,22102000
+132,Africa,Western Africa,Cabo Verde,581000
+384,Africa,Western Africa,Côte d'Ivoire,27498000
+270,Africa,Western Africa,Gambia,2427000
+288,Africa,Western Africa,Ghana,32018000
+324,Africa,Western Africa,Guinea,14475000
+624,Africa,Western Africa,Guinea-Bissau,2096000
+430,Africa,Western Africa,Liberia,5363000
+466,Africa,Western Africa,Mali,21515000
+478,Africa,Western Africa,Mauritania,5033000
+562,Africa,Western Africa,Niger,25972000
+566,Africa,Western Africa,Nigeria,216844000
+654,Africa,Western Africa,Saint Helena,4000
+686,Africa,Western Africa,Senegal,18132000
+694,Africa,Western Africa,Sierra Leone,8376000
+768,Africa,Western Africa,Togo,8787000
+156,Asia,Eastern Asia,China,1431850000
+344,Asia,Eastern Asia,"China, Hong Kong SAR",7643000
+446,Asia,Eastern Asia,"China, Macao SAR",672000
+158,Asia,Eastern Asia,"China, Taiwan Province of China",23923000
+408,Asia,Eastern Asia,Dem. People's Republic of Korea,26057000
+392,Asia,Eastern Asia,Japan,125697000
+496,Asia,Eastern Asia,Mongolia,3291000
+410,Asia,Eastern Asia,Republic of Korea,51817000
+398,Asia,Eastern Asia,Kazakhstan,19130000
+417,Asia,Eastern Asia,Kyrgyzstan,6459000
+762,Asia,Eastern Asia,Tajikistan,9836000
+795,Asia,Eastern Asia,Turkmenistan,6200000
+860,Asia,Eastern Asia,Uzbekistan,34046000
+4,Asia,Southern Asia,Afghanistan,39779000
+50,Asia,Southern Asia,Bangladesh,173229000
+64,Asia,Southern Asia,Bhutan,853000
+356,Asia,Southern Asia,India,1411415000
+364,Asia,Southern Asia,Iran (Islamic Republic of),84982000
+462,Asia,Southern Asia,Maldives,472000
+524,Asia,Southern Asia,Nepal,30895000
+586,Asia,Southern Asia,Pakistan,215824000
+144,Asia,Southern Asia,Sri Lanka,21205000
+96,Asia,South-Eastern Asia,Brunei Darussalam,455000
+116,Asia,South-Eastern Asia,Cambodia,17167000
+360,Asia,South-Eastern Asia,Indonesia,277425000
+418,Asia,South-Eastern Asia,Lao People's Democratic Republic,7357000
+458,Asia,South-Eastern Asia,Malaysia,33711000
+104,Asia,South-Eastern Asia,Myanmar,55718000
+608,Asia,South-Eastern Asia,Philippines,112902000
+702,Asia,South-Eastern Asia,Singapore,6040000
+764,Asia,South-Eastern Asia,Thailand,69568000
+626,Asia,South-Eastern Asia,Timor-Leste,1442000
+704,Asia,South-Eastern Asia,Viet Nam,100195000
+51,Asia,Western Asia,Armenia,2940000
+31,Asia,Western Asia,Azerbaijan,10253000
+48,Asia,Western Asia,Bahrain,1780000
+196,Asia,Western Asia,Cyprus,1224000
+268,Asia,Western Asia,Georgia,3876000
+368,Asia,Western Asia,Iraq,43736000
+376,Asia,Western Asia,Israel,8969000
+400,Asia,Western Asia,Jordan,10405000
+414,Asia,Western Asia,Kuwait,4422000
+422,Asia,Western Asia,Lebanon,5875000
+512,Asia,Western Asia,Oman,5364000
+634,Asia,Western Asia,Qatar,2889000
+682,Asia,Western Asia,Saudi Arabia,35796000
+275,Asia,Western Asia,State of Palestine,5599000
+760,Asia,Western Asia,Syrian Arab Republic,20466000
+792,Asia,Western Asia,Turkey,85019000
+784,Asia,Western Asia,United Arab Emirates,10062000
+887,Asia,Western Asia,Yemen,31576000
+112,Europe,Eastern Europe,Belarus,9378000
+100,Europe,Eastern Europe,Bulgaria,6844000
+203,Europe,Eastern Europe,Czechia,10632000
+348,Europe,Eastern Europe,Hungary,9551000
+616,Europe,Eastern Europe,Poland,37741000
+498,Europe,Eastern Europe,Republic of Moldova,3991000
+642,Europe,Eastern Europe,Romania,19202000
+643,Europe,Eastern Europe,Russian Federation,143442000
+703,Europe,Eastern Europe,Slovakia,5450000
+804,Europe,Eastern Europe,Ukraine,43140000
+830,Europe,Northern Europe,Channel Islands,169000
+208,Europe,Northern Europe,Denmark,5842000
+233,Europe,Northern Europe,Estonia,1293000
+234,Europe,Northern Europe,Faeroe Islands,50000
+246,Europe,Northern Europe,Finland,5617000
+352,Europe,Northern Europe,Iceland,348000
+372,Europe,Northern Europe,Ireland,4962000
+833,Europe,Northern Europe,Isle of Man,87000
+428,Europe,Northern Europe,Latvia,1859000
+440,Europe,Northern Europe,Lithuania,2827000
+578,Europe,Northern Europe,Norway,5551000
+752,Europe,Northern Europe,Sweden,10252000
+826,Europe,Northern Europe,United Kingdom,68057000
+8,Europe,Southern Europe,Albania,2947000
+20,Europe,Southern Europe,Andorra,77000
+70,Europe,Southern Europe,Bosnia and Herzegovina,3484000
+191,Europe,Southern Europe,Croatia,4069000
+292,Europe,Southern Europe,Gibraltar,35000
+300,Europe,Southern Europe,Greece,11045000
+336,Europe,Southern Europe,Holy See,1000
+380,Europe,Southern Europe,Italy,58937000
+470,Europe,Southern Europe,Malta,437000
+499,Europe,Southern Europe,Montenegro,629000
+620,Europe,Southern Europe,Portugal,10148000
+674,Europe,Southern Europe,San Marino,34000
+688,Europe,Southern Europe,Serbia,8642000
+705,Europe,Southern Europe,Slovenia,2081000
+724,Europe,Southern Europe,Spain,46424000
+807,Europe,Southern Europe,TFYR Macedonia,2089000
+40,Europe,Western Europe,Austria,8820000
+56,Europe,Western Europe,Belgium,11711000
+250,Europe,Western Europe,France,66182000
+276,Europe,Western Europe,Germany,82592000
+438,Europe,Western Europe,Liechtenstein,39000
+442,Europe,Western Europe,Luxembourg,619000
+492,Europe,Western Europe,Monaco,40000
+528,Europe,Western Europe,Netherlands,17278000
+756,Europe,Western Europe,Switzerland,8790000
+660,Latin America and the Caribbean,Caribbean,Anguilla,15000
+28,Latin America and the Caribbean,Caribbean,Antigua and Barbuda,107000
+533,Latin America and the Caribbean,Caribbean,Aruba,107000
+44,Latin America and the Caribbean,Caribbean,Bahamas,414000
+52,Latin America and the Caribbean,Caribbean,Barbados,289000
+92,Latin America and the Caribbean,Caribbean,British Virgin Islands,33000
+535,Latin America and the Caribbean,Caribbean,Caribbean Netherlands,27000
+136,Latin America and the Caribbean,Caribbean,Cayman Islands,65000
+192,Latin America and the Caribbean,Caribbean,Cuba,11504000
+531,Latin America and the Caribbean,Caribbean,Curaçao,165000
+212,Latin America and the Caribbean,Caribbean,Dominica,76000
+214,Latin America and the Caribbean,Caribbean,Dominican Republic,11325000
+308,Latin America and the Caribbean,Caribbean,Grenada,110000
+312,Latin America and the Caribbean,Caribbean,Guadeloupe,448000
+332,Latin America and the Caribbean,Caribbean,Haiti,11623000
+388,Latin America and the Caribbean,Caribbean,Jamaica,2924000
+474,Latin America and the Caribbean,Caribbean,Martinique,385000
+500,Latin America and the Caribbean,Caribbean,Montserrat,5000
+630,Latin America and the Caribbean,Caribbean,Puerto Rico,3640000
+659,Latin America and the Caribbean,Caribbean,Saint Kitts and Nevis,58000
+662,Latin America and the Caribbean,Caribbean,Saint Lucia,183000
+670,Latin America and the Caribbean,Caribbean,Saint Vincent and the Grenadines,111000
+534,Latin America and the Caribbean,Caribbean,Sint Maarten (Dutch part),42000
+780,Latin America and the Caribbean,Caribbean,Trinidad and Tobago,1381000
+796,Latin America and the Caribbean,Caribbean,Turks and Caicos Islands,38000
+850,Latin America and the Caribbean,Caribbean,United States Virgin Islands,105000
+84,Latin America and the Caribbean,Central America,Belize,414000
+188,Latin America and the Caribbean,Central America,Costa Rica,5130000
+222,Latin America and the Caribbean,Central America,El Salvador,6545000
+320,Latin America and the Caribbean,Central America,Guatemala,18577000
+340,Latin America and the Caribbean,Central America,Honduras,10017000
+484,Latin America and the Caribbean,Central America,Mexico,136869000
+558,Latin America and the Caribbean,Central America,Nicaragua,6544000
+591,Latin America and the Caribbean,Central America,Panama,4414000
+32,Latin America and the Caribbean,South America,Argentina,46313000
+68,Latin America and the Caribbean,South America,Bolivia (Plurinational State of),11872000
+76,Latin America and the Caribbean,South America,Brazil,216636000
+152,Latin America and the Caribbean,South America,Chile,18734000
+170,Latin America and the Caribbean,South America,Colombia,50917000
+218,Latin America and the Caribbean,South America,Ecuador,17800000
+238,Latin America and the Caribbean,South America,Falkland Islands (Malvinas),3000
+254,Latin America and the Caribbean,South America,French Guiana,318000
+328,Latin America and the Caribbean,South America,Guyana,799000
+600,Latin America and the Caribbean,South America,Paraguay,7232000
+604,Latin America and the Caribbean,South America,Peru,34055000
+740,Latin America and the Caribbean,South America,Suriname,587000
+858,Latin America and the Caribbean,South America,Uruguay,3517000
+862,Latin America and the Caribbean,South America,Venezuela (Bolivarian Republic of),33938000
+60,Northern America,Northern America,Bermuda,60000
+124,Northern America,Northern America,Canada,38242000
+304,Northern America,Northern America,Greenland,57000
+666,Northern America,Northern America,Saint Pierre and Miquelon,7000
+840,Northern America,Northern America,United States of America,336150000
+36,Oceania,Australia/New Zealand,Australia,25996000
+554,Oceania,Australia/New Zealand,New Zealand,4916000
+242,Oceania,Melanesia,Fiji,936000
+540,Oceania,Melanesia,New Caledonia,294000
+598,Oceania,Melanesia,Papua New Guinea,9097000
+90,Oceania,Melanesia,Solomon Islands,672000
+548,Oceania,Melanesia,Vanuatu,306000
+316,Oceania,Micronesia,Guam,171000
+296,Oceania,Micronesia,Kiribati,126000
+584,Oceania,Micronesia,Marshall Islands,53000
+583,Oceania,Micronesia,Micronesia (Fed. States of),109000
+520,Oceania,Micronesia,Nauru,11000
+580,Oceania,Micronesia,Northern Mariana Islands,56000
+585,Oceania,Micronesia,Palau,23000
+16,Oceania,Polynesia,American Samoa,56000
+184,Oceania,Polynesia,Cook Islands,18000
+258,Oceania,Polynesia,French Polynesia,294000
+570,Oceania,Polynesia,Niue,2000
+882,Oceania,Polynesia,Samoa,203000
+772,Oceania,Polynesia,Tokelau,1000
+776,Oceania,Polynesia,Tonga,113000
+798,Oceania,Polynesia,Tuvalu,12000
+876,Oceania,Polynesia,Wallis and Futuna Islands,11000

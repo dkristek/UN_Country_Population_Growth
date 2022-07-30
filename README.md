@@ -1,7 +1,8 @@
 # Country_Population_Growth
-This repository includes code to forecast population growth for the top 4 most populous countries using a ARIMA model. To use the repository:
 
-git clone
+## Description
+
+This repository includes code to forecast population growth for the top 4 most populous countries using a ARIMA model. To use the repository run `git clone`. The repository also requires access to a SQL DB containing the curated data for analysis. The raw data may be downloaded at: https://population.un.org/wup/DataQuery/ 
 
 
 ## Selected Topic: Forecasting Population Growth in the United Nations' four largest countries (by population) (United States, China, Indonesia, and India)

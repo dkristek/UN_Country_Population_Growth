@@ -11,10 +11,11 @@ We seek to understand the population growth trends within the United Nations’ 
 Our primary source of data is the United Nations’ Mid-Year Population data for the four most populous countries of the world: the United States, China, India, and Indonesia. This includes total population statistics recorded at mid-year as recorded and by the UN. We included in our analysis 67 years of data, from 1955 to 2021, split into training and test data for the ML model development. (https://population.un.org/wup/DataQuery/)
 
 ## Questions we hope to answer with the data:
-- Is the population in the United Nations' largest countries (in terms of population) growing or declining?
-- Are we at a point where we should seek to accelerate or decline population expansion?
-- Are certain countries more likely to have stronger population growth than others?
-- What will the population of these countries look like in the next 5 years?
+- Is the population in the United Nations' largest countries growing or declining,and at what rate?
+- Are we at a point where we should be concerned about the acceleration or decline of population expansion?
+- Are certain countries more likely to have higher population growth than others?
+- What will the population of these countries look like over the next XX years?
+
 
 ## Description of communication protocols
 - Our team is mainly communicating via a Slack channel - during class sessions, we divide work and confirm each member's deliverables on this slack channel. We also discuss any barriers that need to be handled as a team

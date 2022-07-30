@@ -22,3 +22,32 @@ CREATE TABLE countries_populations AS
 FROM countries
 INNER JOIN populations
 ON countries.country_id = populations.country_id);
+
+# Database tables
+countries
+
+ - country_id varchar pk
+
+ - country_name varchar
+
+populations
+
+ - record_key varchar pk
+
+ - country_id varchar fk - countries.country_id
+
+ - mid_year int
+
+ - population int
+
+countries_populations
+
+- record_key varchar pk
+
+- country_id varchar fk - populations.country_id
+
+- country_name varchar fk - countries.country_name
+
+- mid_year int fk - populations.mid_year
+
+- population int fk - populations.population

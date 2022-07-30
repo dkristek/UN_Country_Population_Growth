@@ -1,4 +1,8 @@
 # Country_Population_Growth
+This repository includes code to forecast population growth for the top 4 most populous countries using a ARIMA model. To use the repository:
+
+git clone
+
 
 ## Selected Topic: Forecasting Population Growth in the United Nations' four largest countries (by population) (United States, China, Indonesia, and India)
 
@@ -14,8 +18,7 @@ Our primary source of data is the United Nations’ Mid-Year Population data for
 - Is the population in the United Nations' largest countries growing or declining,and at what rate?
 - Are we at a point where we should be concerned about the acceleration or decline of population expansion?
 - Are certain countries more likely to have higher population growth than others?
-- What will the population of these countries look like over the next XX years?
-
+- What will the population of these countries look like over the next seven years?
 
 ## Description of communication protocols
 - Our team is mainly communicating via a Slack channel - during class sessions, we divide work and confirm each member's deliverables on this slack channel. We also discuss any barriers that need to be handled as a team

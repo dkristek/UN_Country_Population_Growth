@@ -2,17 +2,16 @@
 
 ## Description
 
-This repository includes code to forecast population growth for the top 4 most populous countries using a ARIMA model. To use the repository run `git clone`. The repository also requires access to a SQL DB containing the curated data for analysis. The raw data may be downloaded at: https://population.un.org/wup/DataQuery/ 
+This repository includes code to forecast population growth in the United Nations' four most populous countries (United States, China, Indonesia, and India) using a ARIMA model.
 
+To use the repository run `git clone`. The repository also requires access to a SQL DB containing the curated data for analysis. The raw data may be downloaded at: https://population.un.org/wup/DataQuery/ 
 
-## Selected Topic: Forecasting Population Growth in the United Nations' four largest countries (by population) (United States, China, Indonesia, and India)
-
-## Reason why we selected this topic: 
+## Rationale 
 The latest report of the Intergovernmental Panel on Climate Change indicates population growth tends will pose significant demands across the nexus of water-food-energy, putting into question the long term sustainability of our planet from a natural resources perspective. Furthermore, population growth is uniquely correlated to climate change, access to healthcare, education, economy, government population controls, and can be of the contributing factors to political instability and widespread population migration. 
 
 We seek to understand the population growth trends within the United Nations’ four largest countries (in terms of population): United States, China, Indonesia, and India. We will then use this data to forecast population growth seven years out and make inferences about population sustainability, implications and future impact. 
 
-## Description of Source Data: 
+## Description of Source Data 
 Our primary source of data is the United Nations’ Mid-Year Population data for the four most populous countries of the world: the United States, China, India, and Indonesia. This includes total population statistics recorded at mid-year as recorded and by the UN. We included in our analysis 67 years of data, from 1955 to 2021, split into training and test data for the ML model development. (https://population.un.org/wup/DataQuery/)
 
 ## Questions we hope to answer with the data:

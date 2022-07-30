@@ -5,7 +5,7 @@
 ## Reason why we selected this topic: 
 The latest report of the Intergovernmental Panel on Climate Change indicates population growth tends will pose significant demands across the nexus of water-food-energy, putting into question the long term sustainability of our planet from a natural resources perspective. Furthermore, population growth is uniquely correlated to climate change, access to healthcare, education, economy, government population controls, and can be of the contributing factors to political instability and widespread population migration. 
 
-We seek to understand the population growth trends within the United Nations’ four largest countries (in terms of population): United States, China, Indonesia, and India. We will then use this data to forecast population growth XX years out and make inferences about population sustainability, implications and future impact. 
+We seek to understand the population growth trends within the United Nations’ four largest countries (in terms of population): United States, China, Indonesia, and India. We will then use this data to forecast population growth seven years out and make inferences about population sustainability, implications and future impact. 
 
 ## Description of Source Data: 
 Our primary source of data is United Nations census data for the United States, China, Indonesia, and India. This includes total population statistics and growth percentages. (https://population.un.org/wup/DataQuery/)

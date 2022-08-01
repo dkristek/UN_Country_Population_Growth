@@ -3,10 +3,12 @@
 ## Selected Topic: Forecasting Population Growth in the United Nations' four largest countries (by population) (United States, China, Indonesia, and India)
 
 ## Reason why we selected this topic: 
-There are varying opinions of whether the population of the world is sustainable from a resources perspective. Population has a unique impact the sustainability of our climate, education system, and economy. We seek to understand the population growth trends within the United Nations’ four largest countries (in terms of population): United States, China, Indonesia, and India. We will then use this data to make inferences about population viability.
+The latest report of the Intergovernmental Panel on Climate Change indicates population growth tends will pose significant demands across the nexus of water-food-energy, putting into question the long term sustainability of our planet from a natural resources perspective. Furthermore, population growth is uniquely correlated to climate change, access to healthcare, education, economy, government population controls, and can be of the contributing factors to political instability and widespread population migration. 
+
+We seek to understand the population growth trends within the United Nations’ four largest countries (in terms of population): United States, China, Indonesia, and India. We will then use this data to forecast population growth seven years out and make inferences about population sustainability, implications and future impact. 
 
 ## Description of Source Data: 
-Our primary source of data is United Nations census data for the United States, China, Indonesia, and India. This includes total population statistics and growth percentages. (https://population.un.org/wup/DataQuery/)
+Our primary source of data is the United Nations’ Mid-Year Population data for the four most populous countries of the world: the United States, China, India, and Indonesia. This includes total population statistics recorded at mid-year as recorded and by the UN. We included in our analysis 67 years of data, from 1955 to 2021, split into training and test data for the ML model development. (https://population.un.org/wup/DataQuery/)
 
 ## Questions we hope to answer with the data:
 - Is the population in the United Nations' largest countries (in terms of population) growing or declining?

@@ -86,23 +86,16 @@ The dashboard is set to display initial analysis elements, accuracy graph from m
 
 The visual elements to be displayed along with the technology are listed in detail below: 
  1. Global heatmap displaying countries by population.
-    - Technology: GeoJSON, Tableau, PANDAS
+    - Technology: Python, Jupyter Notebook, Tableau, PANDAS
  2. Horizontal bar chart interactively displaying populations of countries by selected year
-    - Technology: Plotly, Tableau, HTML, Javascript
+    - Technology: Python, Jupyter Notebook, Tableau, PANDAS
  3. Line graph depicting the predictive rate of machine learning model compared to actual testing data
     - Technology: Statsmodels library, MATPLOTLIB, Tableau
- 4. Bar chart or line graph that displays the projected populations, predicted by ML model over the next 5 years
-    - Technology: MATPLOTLIB, PANDAS, Tableau, Plotly
+ 4. Bar chart that displays the projected populations, predicted by ML model over the next 5 years
+    - Technology: Python, Jupyter Notebook, Tableau, PANDAS
 
 ### Current Draft of Visualizations in Tableau
 
 
-**Display 1.** Heatmap of Countries 2021
-![heatmap_population_country_2021](images/heatmap_population_country_2021.png)
-
-Shows the populations of the largest countries, relatively to one another.
-
-**Display 2.** Bar Chart of Countries Population 1990 - 2021
-![country_populations_by_year](images/country_populations_by_year.png)
-
-Shows a bar chart displaying population of countries by year and total population of the 4 countries throughout the years. 
+**Display 1.** Dashboard Screenshot
+![Dashboard](/images/Dashboard_073122.png)

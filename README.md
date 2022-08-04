@@ -3,7 +3,7 @@
 ## Overview
 ### Presentation Resources
  1. [Google Slides Presentation](https://docs.google.com/presentation/d/1lzzH5QWJL6UF9R3eWyLcfaqSGRQeHIwNNbpT4gfCJ90/edit#slide=id.g13be2890723_0_6)
- 2. [Tableau Dashboard](https://public.tableau.com/shared/BXXKFW67J?:display_count=n&:origin=viz_share_link)
+ 2. [Tableau Dashboard](https://public.tableau.com/app/profile/kaitlyn.hopkins/viz/Population_Predictions_Story/Populations#1)
 
 ## Description
 
